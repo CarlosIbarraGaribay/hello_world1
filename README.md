@@ -1,5 +1,7 @@
 # hello_world1
-Repositorio para aprender GitHub
+
 
 
 Modificacion1, se agrega linea nueva
+
+Modificacion2, se elimina una linea del archivo
